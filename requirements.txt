@@ -1,0 +1,7 @@
+tensorflow==2.10.0
+opencv-python==4.5.5.64
+numpy==1.23.5
+tqdm==4.64.1
+imageio==2.22.4
+pillow==9.2.0
+tensorflow-hub==0.12.0
