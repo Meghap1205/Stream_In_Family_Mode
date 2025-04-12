@@ -1,6 +1,6 @@
 # Stream In Family Mode
-
 ![Project Screenshot](./assets/output.png) 
+
 
 ## Project Description
 A content filtering system that automatically detects and filters NSFW (Not Safe For Work) content from video streams, making them family-friendly.
