@@ -1,7 +1,6 @@
 # Stream In Family Mode
-
-![Project Screenshot]("C:\Users\megha\Downloads\Screenshot (39).png") 
-
+## Output Screenshot
+<img src="https://drive.google.com/file/d/1r48nMtjP8H4_Jb9AoU4dA1-Dpmn-5i9X/view?usp=sharing" alt="img"/>
 ## Project Description
 A content filtering system that automatically detects and filters NSFW (Not Safe For Work) content from video streams, making them family-friendly.
 
